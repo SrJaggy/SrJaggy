@@ -36,19 +36,35 @@ Quité WordPress y PrestaShop, agregué Next.js, Tailwind, Zustand y Zod. Guarda
 ```
 chore: update tech stack badges
 
+## Projects 🚀
 
+| Project | Stack | Live | Repo | Status |
+|---------|-------|------|------|--------|
+| GitHub User Explorer | React · TypeScript · Custom Hooks | — | — | 🔨 Building |
+| UI Component Library | Tailwind CSS · React | — | — | 🔨 Building |
+| Kanban Task Manager | Zustand · Zod · React Hook Form | — | — | ⏳ Soon |
+| Notes App | Next.js · Prisma · SQLite | — | — | ⏳ Soon |
+| LinkVault | Next.js · Prisma · NextAuth · Zustand | — | — | ⏳ Soon |
+```
 
-<!--
-**jag8210/jag8210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cuando termines cada proyecto reemplazas `—` con el link real. Commit:
+```
+docs: add projects table
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**2. Contribution graph**
+
+Esa cuadrícula verde se llena sola — **cada commit que hagas cuenta**. No hay nada que activar, ya está visible en tu perfil.
+
+El problema es que está vacía porque hasta hoy no tenías commits. A partir de ahora con cada cosa que practiques:
+
+- Haz el cambio
+- `git add .`
+- `git commit -m "feat/fix/chore: descripción"`
+- `git push`
+
+**La regla es simple: un commit diario mínimo.** En 4 semanas tu gráfica se ve así:
+```
+░░░░░░░░░░░░░░   →   ████░███░████░██
