@@ -30,11 +30,7 @@ I am self-driven, disciplined, and committed to continuous improvement, with a l
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=ffffff)
-```
 
-Quité WordPress y PrestaShop, agregué Next.js, Tailwind, Zustand y Zod. Guarda el commit con el mensaje:
-```
-chore: update tech stack badges
 
 ## Projects 🚀
 
