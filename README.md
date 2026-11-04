@@ -87,8 +87,8 @@ GitHub: @SrJaggy
 
 | Project | Stack | Live | Repo | Status |
 |---------|-------|------|------|--------|
-| GitHub User Explorer | React · TypeScript · Custom Hooks | — | — | 🔨 Building |
-| UI Component Library | Tailwind CSS · React | — | — | 🔨 Building |
-| Kanban Task Manager | Zustand · Zod · React Hook Form | — | — | ⏳ Soon |
-| Notes App | Next.js · Prisma · SQLite | — | — | ⏳ Soon |
-| LinkVault | Next.js · Prisma · NextAuth · Zustand | — | — | ⏳ Soon |
+| SOC Analyst Portfolio | LetsDefend · TryHackMe · SOC Analysis | — | [Repo](https://github.com/SrJaggy/SOC-Analyst-Portfolio) | 🔨 Building |
+| SOC143 - Password Stealer Detected | Email Security · VirusTotal · IOC Analysis | — | [Repo](https://github.com/SrJaggy/SOC-Analyst-Portfolio/tree/main/02-LetsDefend-Labs/SOC143-Password-Stealer-Detected) | ✅ Completed |
+| SOC Investigation Labs | Alert Triage · Log Analysis · Incident Response | — | — | ⏳ Soon |
+| Threat Detection Practice | SIEM · Threat Hunting · Security Monitoring | — | — | ⏳ Soon |
+| Web Development Projects | React · TypeScript · Next.js | — | — | 🔨 Building |
