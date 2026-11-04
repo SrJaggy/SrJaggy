@@ -4,6 +4,8 @@
 </div>
 
 
+
+
 I'm a Software Engineering student specializing in Cybersecurity, currently focused on building practical skills for a career as a Security Operations Center (SOC) Analyst.
 
 My background includes over 6 years of experience in web development, working with HTML, CSS, JavaScript, React, Next.js, and WordPress. This experience has helped me develop strong troubleshooting, analytical thinking, and problem-solving skills.
