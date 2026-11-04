@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am a Software Engineering student specializing in Cybersecurity, with over 6 years of experience in web development. My technical background includes HTML, CSS, JavaScript, React, Next.js, Node.js, and WordPress.
+I am a Software Engineering student specializing in Cybersecurity, with over 10 years of experience in web development. My technical background includes HTML, CSS, JavaScript, React, Next.js, Node.js, and WordPress.
 
 I am currently transitioning my career toward Cybersecurity, with a strong focus on becoming a Junior SOC Analyst. I am developing practical skills in security operations, alert triage, phishing investigation, IOC analysis, log analysis, and incident response.
 
