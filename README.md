@@ -1,15 +1,66 @@
 <div align="center">
 <h1 align="center">Hi there, I am Andres Giraldo 👋</h1>
+  Aspiring SOC Analyst | Cybersecurity Student | Software Engineering
 </div>
 
-<img src="https://dualconnection.com.co/wp-content/uploads/2024/07/banner-git.jpg">
 
-## About Me
+I'm a Software Engineering student specializing in Cybersecurity, currently focused on building practical skills for a career as a Security Operations Center (SOC) Analyst.
 
-I am a Front-End Developer with over 6 years of experience in web development, specializing in HTML, CSS, JavaScript, React, Next.js, and WordPress. I am currently pursuing a degree in Software Engineering and actively transitioning toward a Full Stack profile by strengthening my backend skills with Node.js, databases, and modern architecture practices.
-Throughout my career, I have worked on web design and development projects, e-commerce solutions, and digital platforms focused on performance, user experience, and scalability. My background combines strong technical execution with an understanding of UI/UX principles and clean, maintainable code.
-Currently, I am deepening my knowledge in Next.js (App Router), backend architecture patterns, API design, database modeling with Prisma, and professional Git/GitHub workflows. My goal is to build scalable, well-structured applications that follow industry best practices.
-I am self-driven, disciplined, and committed to continuous improvement, with a long-term vision of becoming a solid Full Stack Developer and eventually specializing in backend systems and AI applied to web development.
+My background includes over 6 years of experience in web development, working with HTML, CSS, JavaScript, React, Next.js, and WordPress. This experience has helped me develop strong troubleshooting, analytical thinking, and problem-solving skills.
+
+I'm now applying that technical foundation to cybersecurity through hands-on labs, security investigations, and incident analysis.
+
+🔐 Cybersecurity Focus
+
+SOC Alert Triage and Investigation
+
+Phishing and Email Security Analysis
+
+IOC Identification and Analysis
+
+Security Event and Log Analysis
+
+Incident Classification and Escalation
+
+Basic Malware Analysis
+
+🧪 Hands-on Practice
+
+Platforms:
+
+LetsDefend
+
+TryHackMe
+
+Current Portfolio:
+
+SOC Analyst Portfolio
+
+I document my investigations, findings, evidence, and incident analysis to demonstrate my practical learning and development as a SOC Analyst.
+
+🛠️ Technical Background
+
+Security: SOC fundamentals, incident response, threat analysis
+
+Systems: Linux, Windows
+
+Development: JavaScript, TypeScript, React, Next.js, Node.js
+
+Tools: Git, GitHub, VS Code
+
+🎓 Certifications & Education
+
+Google Cybersecurity Professional Certificate
+
+B.S. in Software Engineering — Currently pursuing
+
+🎯 Career Goal
+
+My goal is to start my professional career as a Junior SOC Analyst, continuously improving my ability to detect, investigate, analyze, and respond to security incidents.
+
+📫 Connect with Me
+
+GitHub: @SrJaggy
 
 ## Languages and Tools 🛠 
 
